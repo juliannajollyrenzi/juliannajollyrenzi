@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Julianna (she/her)!
+
+- I'm a PhD student at the University of California Santa Barbara, where I study community ecology in the [Burkepile lab](https://labs.eemb.ucsb.edu/burkepile/deron/)
+- Want to learn more about what I do? Feel free to check out my [website](https://juliannarenzi.webflow.io/) or some of my [published work](https://scholar.google.com/citations?user=9_n7fDgAAAAJ&hl=en&oi=ao)
+
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=juliannajollyrenzi&theme=vision-friendly-dark&rank_icon=github&hide=contribs&show_icons=true)
+
+The README stats cards were created by \@[anuraghazra](https://github.com/anuraghazra/github-readme-stats#readme)
 
 <!--
 **juliannajollyrenzi/juliannajollyrenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
