@@ -2,7 +2,7 @@
 
 - I'm a PhD student at the University of California Santa Barbara, where I study community ecology in the [Burkepile lab](https://labs.eemb.ucsb.edu/burkepile/deron/)
 - I love invertebrates, pizza, and science! 
-- Want to learn more about what I do? Feel free to check out my [website](https://juliannarenzi.webflow.io/) or some of my [published work]([https://scholar.google.com/citations?user=9_n7fDgAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=kvb5HGoAAAAJ&hl=en&oi=ao)
+- Want to learn more about what I do? Feel free to check out my [website](https://juliannarenzi.webflow.io/) or some of my [published work]([https://scholar.google.com/citations?user=9_n7fDgAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=kvb5HGoAAAAJ&hl=en&oi=ao))
 
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=juliannajollyrenzi&theme=vision-friendly-dark&rank_icon=github&hide=contribs&show_icons=true) 
 
